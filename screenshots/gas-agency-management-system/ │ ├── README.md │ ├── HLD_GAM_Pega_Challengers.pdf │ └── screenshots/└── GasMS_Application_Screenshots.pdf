@@ -1,0 +1,55 @@
+## 📸 Application Screenshots
+
+### 1. Gas Booking Case Type
+
+The Gas Booking case type manages the complete cylinder booking process. The case lifecycle includes registration/login, gas booking, payment, payment approval, delivery updates, and customer feedback.
+
+![Gas Booking Case Type](screenshots/gas-booking-case-type.png)
+
+---
+
+### 2. Connection Transfer Case Type
+
+The Connection Transfer case type manages customer requests for transferring a gas connection. The workflow includes customer login, connection transfer details, distributor verification, manager verification, and final transfer processing.
+
+![Connection Transfer Case Type](screenshots/connection-transfer-case-type.png)
+
+---
+
+### 3. Booking Complaints Case Type
+
+The Booking Complaints case type handles complaints raised by customers regarding their gas booking. The lifecycle includes complaint registration, complaint review, manager approval, complaint solution, and customer notification.
+
+![Booking Complaints Case Type](screenshots/booking-complaints-case-type.png)
+
+---
+
+### 4. Booking Complaint Workflow
+
+The workflow manages the complaint-processing stages, including complaint selection, confirmation, review, approval, and handling of approved or rejected outcomes.
+
+![Booking Complaint Workflow](screenshots/gas-booking-workflow.png)
+
+---
+
+### 5. Consumer Data Type
+
+The Consumer Data Type stores information required for managing gas agency consumers, including consumer number, contact details, LPG ID, Aadhaar number, mobile number, state, and other consumer information.
+
+![Consumer Data Type](screenshots/consumer-data-type.png)
+
+---
+
+### 6. Payment Data Type
+
+The Payment Data Type stores payment-related information such as card holder name, card number, CVV code, expiry date, payment ID, payment type, and UPI ID.
+
+![Payment Data Type](screenshots/payment-data-type.png)
+
+---
+
+### 7. Consumer Registration and Validations
+
+The Consumer Registration Page collects the information required for customer registration. The form contains required fields and input validation before submission.
+
+![Consumer Registration Page](screenshots/registration-page.png)
