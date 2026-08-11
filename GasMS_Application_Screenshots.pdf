@@ -1,0 +1,57 @@
+## 📸 Application Screenshots
+
+### 1. Gas Booking Case Type
+
+The **Gas Booking** case type manages the complete cylinder booking process. The case lifecycle includes registration/login, gas booking, payment, payment approval, delivery updates, and customer feedback. The workflow is structured into multiple stages to manage the booking from creation through completion.
+
+![Gas Booking Case Type](screenshots/gas-booking-case-type.png)
+
+---
+
+### 2. Connection Transfer Case Type
+
+The **Connection Transfer** case type manages customer requests for transferring a gas connection. The workflow includes customer login, connection transfer details, decision handling for different city or transfer conditions, distributor verification, manager verification, and final transfer processing.
+
+![Connection Transfer Case Type](screenshots/connection-transfer-case-type.png)
+
+---
+
+### 3. Booking Complaints Case Type
+
+The **Booking Complaints** case type handles complaints raised by customers regarding their gas booking. The lifecycle includes complaint registration, complaint review, manager approval, complaint solution, and notification to the customer.
+
+![Booking Complaints Case Type](screenshots/booking-complaints-case-type.png)
+
+---
+
+### 4. booking-complaint-workflow.png
+
+The **booking-complaint-workflow.png** represents the complaint-processing flow used in the application. The workflow includes selecting the complaint, confirming the complaint, reviewing it, obtaining approval, and handling approved or rejected outcomes before completing the case.
+
+![Gas Booking Workflow](screenshots/gas-booking-workflow.png)
+
+---
+
+### 5. Consumer Data Type
+
+The **Consumer Data Type** stores the information required for managing gas agency consumers. It contains fields such as Aadhaar number, city, consumer number, contact address, distributor name, email, LPG ID, mobile number, password, state, subsidy-related information, and username.
+
+![Consumer Data Type](screenshots/consumer-data-type.png)
+
+---
+
+### 6. Payment Data Type
+
+The **Payment Data Type** stores payment-related information used by the application. The data type contains fields such as card holder name, card number, CVV code, expiry date, payment ID, payment type, and UPI ID.
+
+![Payment Data Type](screenshots/payment-data-type.png)
+
+---
+
+### 7. Consumer Registration and Validations
+
+The **Consumer Registration Page** is used to collect customer information required to register for the gas agency service. The screen contains fields such as username, email, mobile number, contact address, password, Aadhaar number, state, and other consumer details.
+
+The registration form also includes required-field checks and input validation, such as password requirements and validation of entered information before submission.
+
+![Consumer Registration Page](screenshots/registration-page.png)
