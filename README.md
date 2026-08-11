@@ -200,42 +200,41 @@ The project documentation includes:
 
 ---
 
-## 📸 Screenshots
-
-Recommended screenshots to add:
-
-* Login Page
-* Consumer Registration Page
-* Gas Booking Page
-* Manager Portal
-* Case Processing
-* Booking Status
-* Connection Transfer
-* Complaint Management
-
----
 
 ## 👨‍💻 My Contribution
 
 **Team Member:** Hitesh Krishna M
 
-This project was developed as a team project under **Pega Challengers**.
+I contributed to the development of the **Gas Agency Management System** using the Pega Platform. My primary responsibilities included:
 
-### My Role
+### Case Types
 
-> Add the specific activities you personally worked on here.
+* Worked on configuring and developing the application's case types.
+* Contributed to the **Gas Booking**, **Connection Transfer**, and **Booking Complaints** case types.
+* Configured the case stages and processing flow according to the business requirements.
 
-Examples:
+### Workflows
 
-* Worked on Pega case type development.
-* Worked on application workflows.
-* Configured data types.
-* Worked on UI screens.
-* Configured business rules.
-* Worked on testing and debugging.
-* Contributed to application documentation.
+* Designed and configured workflows for different business processes.
+* Worked on task routing and assignment within the workflows.
+* Contributed to approval and rejection flows for customer and booking requests.
+* Worked with work queues to support efficient task management.
 
-**Note:** Keep only the responsibilities that accurately represent your actual contribution.
+### Data Types
+
+* Worked on configuring data types required for the application.
+* Contributed to data structures for **Consumer, Connection Transfer, Distributor, Feedback, Payment Details, and Complaints**.
+* Configured the required fields and relationships used by the application.
+
+### Validations
+
+* Implemented and configured validations for user-entered data.
+* Worked on ensuring that required fields were completed before progressing through cases.
+* Applied validation rules to improve data accuracy and prevent invalid information from being submitted.
+
+### Overall Contribution
+
+My contribution focused on **case type configuration, workflow development, data type configuration, and validation implementation** in the Pega-based Gas Agency Management System.
 
 ---
 
